@@ -70,5 +70,6 @@ def layout():
                         }
                     ),
             html.Img(src='assets/evb.jpg', alt='Evergreen Brickworks Site Photo'),
-                ]),            ])
+                ]),            
+            ])
     return layout
